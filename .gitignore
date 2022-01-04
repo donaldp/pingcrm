@@ -1,0 +1,10 @@
+/.formidable
+/database/database.sqlite
+/node_modules
+/storage/framework/users
+/storage/sessions/*.json
+.env
+.env.backup
+npm-debug.log
+yarn-error.log
+*.tgz
