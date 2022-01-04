@@ -43,6 +43,12 @@ Generate application key:
 craftsman key
 ```
 
+Build application:
+
+```sh
+craftsman build
+```
+
 Create an SQLite database. You can also use another database (MySQL, Postgres), simply update your configuration accordingly.
 
 ```sh
