@@ -2,7 +2,7 @@
 
 A demo application to illustrate how Inertia.js works with Formidable.
 
-![](https://raw.githubusercontent.com/donaldp/pingcrm/main/screenshot.png)
+![](https://raw.githubusercontent.com/donaldp/pingcrm/dev/screenshot.png)
 
 ## Installation
 
